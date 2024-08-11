@@ -3,7 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/yehor-kadeniuk-7097a5244/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yehor-kadeniuk-7097a5244/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yehor-kadeniuk-7097a5244/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yehor-kadeniuk-7097a5244/" height="30" width="40" /></a>
 <a href="https://discord.gg/277408857192398848" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="277408857192398848" height="30" width="40" /></a>
 </p>
 
@@ -15,7 +15,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=newmastersg&show_icons=true&locale=en" alt="newmastersg" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=newmastersg&" alt="newmastersg" /></p>
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
